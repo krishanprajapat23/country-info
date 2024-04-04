@@ -1,2 +1,2 @@
 # React Country Info App
-View Basic Information of Any Country
+View Basic Details of Any Country
