@@ -197,7 +197,7 @@ li .btn{
 .app-header {
   padding: 20px 10px;
   margin: 5px 10px 10px;
-  background-image: url('./src/assets/bg.avif');
+  background-image: url('./assets/images/bg.avif');
   background-size: 100em;
   background-repeat: no-repeat;
   background-attachment: fixed;
