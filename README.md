@@ -1,1 +1,1 @@
-# country-info
+# FullStack React Notes App
