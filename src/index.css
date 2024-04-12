@@ -198,9 +198,8 @@ li .btn{
   padding: 20px 10px;
   margin: 5px 10px 10px;
   background-image: url('./assets/images/bg.avif');
-  background-size: 100em;
+  background-size: cover;
   background-repeat: no-repeat;
-  background-attachment: fixed;
   background-position: 100% 100%;
 }
 
